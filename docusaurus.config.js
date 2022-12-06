@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Development Notes',
+  title: 'Seamus Scanlon Developer Notes',
   tagline: 'Notes about Software Development',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
